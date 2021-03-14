@@ -1,3 +1,3 @@
-rm -rf /opt/ANDRAX/maryam
+rm -rf /opt/ANDRAX/Maryam
 
-cp -Rf $(pwd) /opt/ANDRAX/maryam
+cp -Rf $(pwd) /opt/ANDRAX/Maryam
